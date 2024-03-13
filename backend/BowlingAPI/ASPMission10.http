@@ -1,0 +1,6 @@
+@ASPMission10_HostAddress = http://localhost:5081
+
+GET {{ASPMission10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
